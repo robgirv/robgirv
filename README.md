@@ -17,8 +17,6 @@ I'm also quite interested in cloud infrastructure, and hope to further develop e
 
 ---
 
----
-
 ### 🌟 My work so far
 Asides from small side projects here and there, I don't have much work that's significant enough to share yet. Although I'm hoping I will soon.
 - **[CP1404 (Programming II) Practicals](https://github.com/robgirv/cp1404practicals)** A repository containing my work in Python for the optional practicals from my Programming II Subject
